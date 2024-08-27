@@ -1,0 +1,213 @@
+[Sat Aug 17 09:24:14.267898 2024] [mpm_worker:notice] [pid 1061:tid 138282613966656] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 09:24:14.268004 2024] [core:notice] [pid 1061:tid 138282613966656] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 09:26:31.545159 2024] [core:warn] [pid 1061:tid 138282613966656] AH00045: child process 1063 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:26:31.545226 2024] [core:warn] [pid 1061:tid 138282613966656] AH00045: child process 1065 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:26:31.545252 2024] [core:warn] [pid 1061:tid 138282613966656] AH00045: child process 1070 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:26:31.545270 2024] [core:warn] [pid 1061:tid 138282613966656] AH00045: child process 1187 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:26:33.548050 2024] [mpm_worker:notice] [pid 1061:tid 138282613966656] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 09:27:22.504787 2024] [mpm_worker:notice] [pid 1359:tid 132793880323904] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 09:27:22.505033 2024] [core:notice] [pid 1359:tid 132793880323904] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 09:27:47.186271 2024] [core:warn] [pid 1359:tid 132793880323904] AH00045: child process 1361 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:27:47.186340 2024] [core:warn] [pid 1359:tid 132793880323904] AH00045: child process 1362 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:27:47.186358 2024] [core:warn] [pid 1359:tid 132793880323904] AH00045: child process 1367 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:27:47.186381 2024] [core:warn] [pid 1359:tid 132793880323904] AH00045: child process 1469 still did not exit, sending a SIGTERM
+[Sat Aug 17 09:27:49.188023 2024] [mpm_worker:notice] [pid 1359:tid 132793880323904] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:28:28.600462 2024] [mpm_worker:notice] [pid 1729:tid 134331054389056] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:28:28.600639 2024] [core:notice] [pid 1729:tid 134331054389056] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:28:42.263060 2024] [core:warn] [pid 1729:tid 134331054389056] AH00045: child process 1730 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:28:42.263113 2024] [core:warn] [pid 1729:tid 134331054389056] AH00045: child process 1733 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:28:42.263131 2024] [core:warn] [pid 1729:tid 134331054389056] AH00045: child process 1741 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:28:43.264301 2024] [mpm_worker:notice] [pid 1729:tid 134331054389056] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:30:10.262793 2024] [mpm_worker:notice] [pid 2022:tid 128382782211904] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:30:10.262901 2024] [core:notice] [pid 2022:tid 128382782211904] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:30:44.077178 2024] [core:warn] [pid 2022:tid 128382782211904] AH00045: child process 2024 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:30:44.077241 2024] [core:warn] [pid 2022:tid 128382782211904] AH00045: child process 2027 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:30:44.077266 2024] [core:warn] [pid 2022:tid 128382782211904] AH00045: child process 2029 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:30:46.080308 2024] [mpm_worker:notice] [pid 2022:tid 128382782211904] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:31:20.465818 2024] [mpm_worker:notice] [pid 2174:tid 135435820472128] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:31:20.465930 2024] [core:notice] [pid 2174:tid 135435820472128] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:32:02.233181 2024] [core:warn] [pid 2174:tid 135435820472128] AH00045: child process 2176 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:32:02.234375 2024] [core:warn] [pid 2174:tid 135435820472128] AH00045: child process 2177 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:32:02.234397 2024] [core:warn] [pid 2174:tid 135435820472128] AH00045: child process 2178 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:32:04.236531 2024] [mpm_worker:notice] [pid 2174:tid 135435820472128] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:33:22.956842 2024] [mpm_worker:notice] [pid 2351:tid 128875026077504] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:33:22.956952 2024] [core:notice] [pid 2351:tid 128875026077504] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:38:47.442014 2024] [core:warn] [pid 2351:tid 128875026077504] AH00045: child process 2353 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:38:47.442085 2024] [core:warn] [pid 2351:tid 128875026077504] AH00045: child process 2354 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:38:47.442106 2024] [core:warn] [pid 2351:tid 128875026077504] AH00045: child process 2355 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:38:47.442123 2024] [core:warn] [pid 2351:tid 128875026077504] AH00045: child process 2745 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:38:49.445480 2024] [mpm_worker:notice] [pid 2351:tid 128875026077504] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:49:52.611006 2024] [mpm_worker:notice] [pid 3095:tid 129865257482048] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:49:52.611110 2024] [core:notice] [pid 3095:tid 129865257482048] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:54:53.332299 2024] [core:warn] [pid 3095:tid 129865257482048] AH00045: child process 3097 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:54:53.332382 2024] [core:warn] [pid 3095:tid 129865257482048] AH00045: child process 3099 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:54:53.332406 2024] [core:warn] [pid 3095:tid 129865257482048] AH00045: child process 3104 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:54:55.334561 2024] [mpm_worker:notice] [pid 3095:tid 129865257482048] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 11:55:18.049804 2024] [mpm_worker:notice] [pid 3437:tid 137203358234432] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 11:55:18.049950 2024] [core:notice] [pid 3437:tid 137203358234432] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 11:56:22.140888 2024] [core:warn] [pid 3437:tid 137203358234432] AH00045: child process 3439 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:56:22.140963 2024] [core:warn] [pid 3437:tid 137203358234432] AH00045: child process 3441 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:56:22.141005 2024] [core:warn] [pid 3437:tid 137203358234432] AH00045: child process 3449 still did not exit, sending a SIGTERM
+[Sat Aug 17 11:56:24.142999 2024] [mpm_worker:notice] [pid 3437:tid 137203358234432] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:01:08.488151 2024] [mpm_worker:notice] [pid 3882:tid 123217235646272] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:01:08.488275 2024] [core:notice] [pid 3882:tid 123217235646272] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:01:26.830280 2024] [core:warn] [pid 3882:tid 123217235646272] AH00045: child process 3883 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:01:26.830406 2024] [core:warn] [pid 3882:tid 123217235646272] AH00045: child process 3885 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:01:26.830479 2024] [core:warn] [pid 3882:tid 123217235646272] AH00045: child process 3888 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:01:28.832446 2024] [mpm_worker:notice] [pid 3882:tid 123217235646272] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:09:12.468341 2024] [mpm_worker:notice] [pid 4061:tid 140466094782272] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:09:12.468502 2024] [core:notice] [pid 4061:tid 140466094782272] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:09:43.999394 2024] [core:warn] [pid 4061:tid 140466094782272] AH00045: child process 4063 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:09:43.999459 2024] [core:warn] [pid 4061:tid 140466094782272] AH00045: child process 4064 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:09:43.999482 2024] [core:warn] [pid 4061:tid 140466094782272] AH00045: child process 4066 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:09:46.002074 2024] [mpm_worker:notice] [pid 4061:tid 140466094782272] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:10:21.596619 2024] [mpm_worker:notice] [pid 4421:tid 128525321545536] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:10:21.639564 2024] [core:notice] [pid 4421:tid 128525321545536] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:10:46.657784 2024] [core:warn] [pid 4421:tid 128525321545536] AH00045: child process 4426 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:10:46.657846 2024] [core:warn] [pid 4421:tid 128525321545536] AH00045: child process 4427 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:10:46.657866 2024] [core:warn] [pid 4421:tid 128525321545536] AH00045: child process 4428 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:10:48.660216 2024] [mpm_worker:notice] [pid 4421:tid 128525321545536] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:11:35.114130 2024] [mpm_worker:notice] [pid 4747:tid 131356090042176] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:11:35.114293 2024] [core:notice] [pid 4747:tid 131356090042176] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:13:11.063246 2024] [core:warn] [pid 4747:tid 131356090042176] AH00045: child process 4749 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:13:11.063323 2024] [core:warn] [pid 4747:tid 131356090042176] AH00045: child process 4750 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:13:11.063349 2024] [core:warn] [pid 4747:tid 131356090042176] AH00045: child process 4752 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:13:11.063371 2024] [core:warn] [pid 4747:tid 131356090042176] AH00045: child process 4841 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:13:13.065733 2024] [mpm_worker:notice] [pid 4747:tid 131356090042176] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:14:23.596572 2024] [mpm_worker:notice] [pid 4920:tid 133554325002048] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:14:23.596684 2024] [core:notice] [pid 4920:tid 133554325002048] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:14:59.619903 2024] [core:warn] [pid 4920:tid 133554325002048] AH00045: child process 4924 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:14:59.619967 2024] [core:warn] [pid 4920:tid 133554325002048] AH00045: child process 4925 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:14:59.619993 2024] [core:warn] [pid 4920:tid 133554325002048] AH00045: child process 4927 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:15:01.622821 2024] [mpm_worker:notice] [pid 4920:tid 133554325002048] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:15:28.204499 2024] [mpm_worker:notice] [pid 5050:tid 128810927859520] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:15:28.204667 2024] [core:notice] [pid 5050:tid 128810927859520] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:16:07.794159 2024] [core:warn] [pid 5050:tid 128810927859520] AH00045: child process 5052 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:16:07.794242 2024] [core:warn] [pid 5050:tid 128810927859520] AH00045: child process 5053 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:16:07.794301 2024] [core:warn] [pid 5050:tid 128810927859520] AH00045: child process 5055 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:16:07.794324 2024] [core:warn] [pid 5050:tid 128810927859520] AH00045: child process 5366 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:16:09.796978 2024] [mpm_worker:notice] [pid 5050:tid 128810927859520] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:24:55.220674 2024] [mpm_worker:notice] [pid 5487:tid 126650172245824] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:24:55.220903 2024] [core:notice] [pid 5487:tid 126650172245824] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:26:13.540930 2024] [core:warn] [pid 5487:tid 126650172245824] AH00045: child process 5489 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:26:13.541007 2024] [core:warn] [pid 5487:tid 126650172245824] AH00045: child process 5490 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:26:13.541028 2024] [core:warn] [pid 5487:tid 126650172245824] AH00045: child process 5494 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:26:13.541051 2024] [core:warn] [pid 5487:tid 126650172245824] AH00045: child process 5824 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:26:15.543311 2024] [mpm_worker:notice] [pid 5487:tid 126650172245824] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:29:29.521868 2024] [mpm_worker:notice] [pid 5935:tid 129051938776896] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:29:29.522056 2024] [core:notice] [pid 5935:tid 129051938776896] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:30:17.742777 2024] [core:warn] [pid 5935:tid 129051938776896] AH00045: child process 5937 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:30:17.742829 2024] [core:warn] [pid 5935:tid 129051938776896] AH00045: child process 5939 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:30:17.742846 2024] [core:warn] [pid 5935:tid 129051938776896] AH00045: child process 5943 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:30:17.742860 2024] [core:warn] [pid 5935:tid 129051938776896] AH00045: child process 6180 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:30:19.744873 2024] [mpm_worker:notice] [pid 5935:tid 129051938776896] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:34:18.280025 2024] [mpm_worker:notice] [pid 6314:tid 125891961624384] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:34:18.280119 2024] [core:notice] [pid 6314:tid 125891961624384] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:35:11.674154 2024] [core:warn] [pid 6314:tid 125891961624384] AH00045: child process 6316 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:35:11.674225 2024] [core:warn] [pid 6314:tid 125891961624384] AH00045: child process 6317 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:35:11.674242 2024] [core:warn] [pid 6314:tid 125891961624384] AH00045: child process 6318 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:35:11.674265 2024] [core:warn] [pid 6314:tid 125891961624384] AH00045: child process 6527 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:35:13.676210 2024] [mpm_worker:notice] [pid 6314:tid 125891961624384] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:36:06.596101 2024] [mpm_worker:notice] [pid 6646:tid 136596541097792] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:36:06.596218 2024] [core:notice] [pid 6646:tid 136596541097792] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:36:45.456572 2024] [core:warn] [pid 6646:tid 136596541097792] AH00045: child process 6648 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:36:45.456641 2024] [core:warn] [pid 6646:tid 136596541097792] AH00045: child process 6649 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:36:45.456703 2024] [core:warn] [pid 6646:tid 136596541097792] AH00045: child process 6650 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:36:45.456788 2024] [core:warn] [pid 6646:tid 136596541097792] AH00045: child process 6877 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:36:47.460088 2024] [mpm_worker:notice] [pid 6646:tid 136596541097792] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:38:30.213605 2024] [mpm_worker:notice] [pid 6978:tid 131300857927488] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:38:30.213720 2024] [core:notice] [pid 6978:tid 131300857927488] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:42:41.625306 2024] [core:warn] [pid 6978:tid 131300857927488] AH00045: child process 6980 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:42:41.625359 2024] [core:warn] [pid 6978:tid 131300857927488] AH00045: child process 6981 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:42:41.625378 2024] [core:warn] [pid 6978:tid 131300857927488] AH00045: child process 6983 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:42:41.625399 2024] [core:warn] [pid 6978:tid 131300857927488] AH00045: child process 7208 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:42:43.627759 2024] [mpm_worker:notice] [pid 6978:tid 131300857927488] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:43:14.175851 2024] [mpm_worker:notice] [pid 7523:tid 129362982053696] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:43:14.175967 2024] [core:notice] [pid 7523:tid 129362982053696] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:44:33.722199 2024] [core:warn] [pid 7523:tid 129362982053696] AH00045: child process 7525 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:44:33.722263 2024] [core:warn] [pid 7523:tid 129362982053696] AH00045: child process 7527 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:44:33.722279 2024] [core:warn] [pid 7523:tid 129362982053696] AH00045: child process 7533 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:44:33.722299 2024] [core:warn] [pid 7523:tid 129362982053696] AH00045: child process 7737 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:44:35.725748 2024] [mpm_worker:notice] [pid 7523:tid 129362982053696] AH00295: caught SIGTERM, shutting down
+[Sat Aug 17 12:45:04.964280 2024] [mpm_worker:notice] [pid 7898:tid 136671075911488] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sat Aug 17 12:45:04.964416 2024] [core:notice] [pid 7898:tid 136671075911488] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sat Aug 17 12:47:50.322241 2024] [core:warn] [pid 7898:tid 136671075911488] AH00045: child process 7900 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:47:50.323395 2024] [core:warn] [pid 7898:tid 136671075911488] AH00045: child process 7901 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:47:50.323430 2024] [core:warn] [pid 7898:tid 136671075911488] AH00045: child process 7902 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:47:50.323449 2024] [core:warn] [pid 7898:tid 136671075911488] AH00045: child process 8235 still did not exit, sending a SIGTERM
+[Sat Aug 17 12:47:52.325328 2024] [mpm_worker:notice] [pid 7898:tid 136671075911488] AH00295: caught SIGTERM, shutting down
+[Sun Aug 18 20:49:27.376166 2024] [mpm_worker:notice] [pid 557:tid 129865195837248] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sun Aug 18 20:49:27.378381 2024] [core:notice] [pid 557:tid 129865195837248] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sun Aug 18 20:54:51.049664 2024] [core:warn] [pid 557:tid 129865195837248] AH00045: child process 558 still did not exit, sending a SIGTERM
+[Sun Aug 18 20:54:51.049715 2024] [core:warn] [pid 557:tid 129865195837248] AH00045: child process 559 still did not exit, sending a SIGTERM
+[Sun Aug 18 20:54:51.049740 2024] [core:warn] [pid 557:tid 129865195837248] AH00045: child process 564 still did not exit, sending a SIGTERM
+[Sun Aug 18 20:54:51.049761 2024] [core:warn] [pid 557:tid 129865195837248] AH00045: child process 650 still did not exit, sending a SIGTERM
+[Sun Aug 18 20:54:53.052497 2024] [mpm_worker:notice] [pid 557:tid 129865195837248] AH00295: caught SIGTERM, shutting down
+[Sun Aug 18 21:02:45.594417 2024] [mpm_worker:notice] [pid 1183:tid 123387612407616] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sun Aug 18 21:02:45.594563 2024] [core:notice] [pid 1183:tid 123387612407616] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sun Aug 18 21:11:38.110928 2024] [core:warn] [pid 1183:tid 123387612407616] AH00045: child process 1185 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:11:38.110980 2024] [core:warn] [pid 1183:tid 123387612407616] AH00045: child process 1187 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:11:38.110997 2024] [core:warn] [pid 1183:tid 123387612407616] AH00045: child process 1196 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:11:38.111013 2024] [core:warn] [pid 1183:tid 123387612407616] AH00045: child process 1485 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:11:40.112068 2024] [mpm_worker:notice] [pid 1183:tid 123387612407616] AH00295: caught SIGTERM, shutting down
+[Sun Aug 18 21:14:44.940191 2024] [mpm_worker:notice] [pid 1615:tid 125881720743744] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Sun Aug 18 21:14:44.940294 2024] [core:notice] [pid 1615:tid 125881720743744] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Sun Aug 18 21:16:11.547231 2024] [core:warn] [pid 1615:tid 125881720743744] AH00045: child process 1617 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:16:11.547284 2024] [core:warn] [pid 1615:tid 125881720743744] AH00045: child process 1619 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:16:11.547305 2024] [core:warn] [pid 1615:tid 125881720743744] AH00045: child process 1624 still did not exit, sending a SIGTERM
+[Sun Aug 18 21:16:13.549493 2024] [mpm_worker:notice] [pid 1615:tid 125881720743744] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:15:49.786418 2024] [mpm_worker:notice] [pid 175:tid 134247838107456] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:15:49.788604 2024] [core:notice] [pid 175:tid 134247838107456] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 07:24:30.118633 2024] [core:warn] [pid 175:tid 134247838107456] AH00045: child process 177 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:24:30.118900 2024] [core:warn] [pid 175:tid 134247838107456] AH00045: child process 179 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:24:30.118981 2024] [core:warn] [pid 175:tid 134247838107456] AH00045: child process 183 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:24:30.119017 2024] [core:warn] [pid 175:tid 134247838107456] AH00045: child process 276 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:24:32.124936 2024] [mpm_worker:notice] [pid 175:tid 134247838107456] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:32:07.166583 2024] [mpm_worker:notice] [pid 721:tid 127270742976320] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:32:07.213977 2024] [core:notice] [pid 721:tid 127270742976320] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 07:37:49.279336 2024] [core:warn] [pid 721:tid 127270742976320] AH00045: child process 726 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:37:49.279525 2024] [core:warn] [pid 721:tid 127270742976320] AH00045: child process 727 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:37:49.279568 2024] [core:warn] [pid 721:tid 127270742976320] AH00045: child process 728 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:37:49.279625 2024] [core:warn] [pid 721:tid 127270742976320] AH00045: child process 979 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:37:51.283519 2024] [mpm_worker:notice] [pid 721:tid 127270742976320] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:38:12.228146 2024] [mpm_worker:notice] [pid 1108:tid 132861429176128] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:38:12.228271 2024] [core:notice] [pid 1108:tid 132861429176128] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 07:43:15.790279 2024] [core:warn] [pid 1108:tid 132861429176128] AH00045: child process 1111 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:43:15.790366 2024] [core:warn] [pid 1108:tid 132861429176128] AH00045: child process 1112 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:43:15.790388 2024] [core:warn] [pid 1108:tid 132861429176128] AH00045: child process 1119 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:43:15.790412 2024] [core:warn] [pid 1108:tid 132861429176128] AH00045: child process 1337 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:43:17.791848 2024] [mpm_worker:notice] [pid 1108:tid 132861429176128] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:43:43.187742 2024] [mpm_worker:notice] [pid 1540:tid 136793881958208] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:43:43.187859 2024] [core:notice] [pid 1540:tid 136793881958208] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 07:48:09.798932 2024] [core:warn] [pid 1540:tid 136793881958208] AH00045: child process 1542 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:48:09.799040 2024] [core:warn] [pid 1540:tid 136793881958208] AH00045: child process 1544 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:48:09.799061 2024] [core:warn] [pid 1540:tid 136793881958208] AH00045: child process 1545 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:48:09.799095 2024] [core:warn] [pid 1540:tid 136793881958208] AH00045: child process 1805 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:48:10.802144 2024] [mpm_worker:notice] [pid 1540:tid 136793881958208] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:48:16.237413 2024] [mpm_worker:notice] [pid 1915:tid 134526087939904] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:48:16.237544 2024] [core:notice] [pid 1915:tid 134526087939904] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 07:50:20.795718 2024] [core:warn] [pid 1915:tid 134526087939904] AH00045: child process 1917 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:50:20.795790 2024] [core:warn] [pid 1915:tid 134526087939904] AH00045: child process 1918 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:50:20.795809 2024] [core:warn] [pid 1915:tid 134526087939904] AH00045: child process 1928 still did not exit, sending a SIGTERM
+[Mon Aug 19 07:50:22.798471 2024] [mpm_worker:notice] [pid 1915:tid 134526087939904] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 07:50:55.213607 2024] [mpm_worker:notice] [pid 2269:tid 124213742438208] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 07:50:55.213732 2024] [core:notice] [pid 2269:tid 124213742438208] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 08:06:57.539700 2024] [core:warn] [pid 2269:tid 124213742438208] AH00045: child process 2270 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:06:57.539781 2024] [core:warn] [pid 2269:tid 124213742438208] AH00045: child process 2272 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:06:57.539796 2024] [core:warn] [pid 2269:tid 124213742438208] AH00045: child process 2274 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:06:57.539809 2024] [core:warn] [pid 2269:tid 124213742438208] AH00045: child process 2509 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:06:59.541226 2024] [mpm_worker:notice] [pid 2269:tid 124213742438208] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 08:12:44.726420 2024] [mpm_worker:notice] [pid 2945:tid 138097226798912] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 08:12:44.726535 2024] [core:notice] [pid 2945:tid 138097226798912] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 08:15:17.880799 2024] [core:warn] [pid 2945:tid 138097226798912] AH00045: child process 2947 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:15:17.880885 2024] [core:warn] [pid 2945:tid 138097226798912] AH00045: child process 2948 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:15:17.880910 2024] [core:warn] [pid 2945:tid 138097226798912] AH00045: child process 2950 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:15:17.880936 2024] [core:warn] [pid 2945:tid 138097226798912] AH00045: child process 3187 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:15:19.882952 2024] [mpm_worker:notice] [pid 2945:tid 138097226798912] AH00295: caught SIGTERM, shutting down
+[Mon Aug 19 08:20:36.850757 2024] [mpm_worker:notice] [pid 3609:tid 129562675181376] AH00292: Apache/2.4.59 (Unix) configured -- resuming normal operations
+[Mon Aug 19 08:20:36.850871 2024] [core:notice] [pid 3609:tid 129562675181376] AH00094: Command line: 'httpd -f /home/runner/eaglercraft-server/apache.conf'
+[Mon Aug 19 08:26:44.879294 2024] [core:warn] [pid 3609:tid 129562675181376] AH00045: child process 3610 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:26:44.879380 2024] [core:warn] [pid 3609:tid 129562675181376] AH00045: child process 3612 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:26:44.879406 2024] [core:warn] [pid 3609:tid 129562675181376] AH00045: child process 3613 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:26:44.879429 2024] [core:warn] [pid 3609:tid 129562675181376] AH00045: child process 3848 still did not exit, sending a SIGTERM
+[Mon Aug 19 08:26:46.881231 2024] [mpm_worker:notice] [pid 3609:tid 129562675181376] AH00295: caught SIGTERM, shutting down
