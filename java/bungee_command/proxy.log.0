@@ -1,0 +1,572 @@
+11:49:53 [INFO] Enabled BungeeCord version unknown
+11:49:54 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:49:54 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:49:54 [INFO] Listening websockets on /127.0.0.1:1
+11:49:54 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:49:54 [INFO] Listening on /127.11.0.1:46589
+11:49:54 [INFO] Reload complete
+11:49:55 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+11:49:55 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+11:49:55 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+11:49:55 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+11:49:55 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+11:49:55 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+11:49:55 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+11:49:55 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+11:49:55 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+11:55:18 [INFO] Enabled BungeeCord version unknown
+11:55:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+11:55:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+11:55:19 [INFO] Listening websockets on /127.0.0.1:1
+11:55:19 [INFO] Server bans.txt changed, it will be reloaded automatically
+11:55:19 [INFO] Reload complete
+11:55:19 [INFO] Listening on /127.11.0.1:40727
+11:55:21 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+11:55:21 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+11:55:21 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+11:55:21 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+11:55:21 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+11:55:21 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+11:55:21 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+11:55:21 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+11:55:21 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:09:14 [INFO] Enabled BungeeCord version unknown
+12:09:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:09:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:09:15 [INFO] Listening websockets on /127.0.0.1:1
+12:09:15 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:09:15 [INFO] Reload complete
+12:09:15 [INFO] Listening on /127.11.0.1:45595
+12:09:18 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:09:18 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:09:18 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:09:18 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:09:18 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:09:18 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:09:18 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:09:18 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:09:18 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:10:23 [INFO] Enabled BungeeCord version unknown
+12:10:24 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:10:24 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:10:24 [INFO] Listening websockets on /127.0.0.1:1
+12:10:24 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:10:24 [INFO] Reload complete
+12:10:24 [INFO] Listening on /127.11.0.1:44345
+12:10:27 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:10:27 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:10:27 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:10:27 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:10:27 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:10:27 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:10:27 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:10:27 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:10:27 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:15:30 [INFO] Enabled BungeeCord version unknown
+12:15:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:15:31 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:15:31 [INFO] Listening websockets on /127.0.0.1:1
+12:15:31 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:15:31 [INFO] Listening on /127.11.0.1:44317
+12:15:31 [INFO] Reload complete
+12:15:33 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:15:33 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:15:33 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:15:33 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:15:33 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:15:33 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:15:33 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:15:33 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:15:33 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:24:57 [INFO] Enabled BungeeCord version unknown
+12:24:57 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:24:57 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:24:58 [INFO] Listening websockets on /127.0.0.1:1
+12:24:58 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:24:58 [INFO] Listening on /127.11.0.1:44533
+12:24:58 [INFO] Reload complete
+12:25:00 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:25:00 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:25:00 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:25:00 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:25:00 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:25:00 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:25:00 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:25:00 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:25:00 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:29:31 [INFO] Enabled BungeeCord version unknown
+12:29:31 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:29:31 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:29:32 [INFO] Listening websockets on /127.0.0.1:1
+12:29:32 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:29:32 [INFO] Reload complete
+12:29:32 [INFO] Listening on /127.11.0.1:32809
+12:29:35 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:29:35 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:29:35 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:29:35 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:29:35 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:29:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:29:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:29:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:29:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:34:20 [INFO] Enabled BungeeCord version unknown
+12:34:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:34:20 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:34:20 [INFO] Listening websockets on /127.0.0.1:1
+12:34:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:34:20 [INFO] Reload complete
+12:34:20 [INFO] Listening on /127.11.0.1:39673
+12:34:23 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:34:23 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:34:23 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:34:23 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:34:23 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:34:23 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:34:23 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:34:23 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:34:23 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:36:08 [INFO] Enabled BungeeCord version unknown
+12:36:09 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:36:09 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:36:09 [INFO] Listening websockets on /127.0.0.1:1
+12:36:09 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:36:09 [INFO] Reload complete
+12:36:09 [INFO] Listening on /127.11.0.1:33949
+12:36:12 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:36:12 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:36:12 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:36:12 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:36:12 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:36:12 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:36:12 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:36:12 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:36:12 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:38:32 [INFO] Enabled BungeeCord version unknown
+12:38:32 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:38:32 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:38:32 [INFO] Listening websockets on /127.0.0.1:1
+12:38:32 [INFO] Listening on /127.11.0.1:37453
+12:38:32 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:38:32 [INFO] Reload complete
+12:38:35 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:38:35 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:38:35 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:38:35 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:38:35 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:38:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:38:35 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:38:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:38:35 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:43:15 [INFO] Enabled BungeeCord version unknown
+12:43:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:43:16 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:43:16 [INFO] Listening websockets on /127.0.0.1:1
+12:43:16 [INFO] Listening on /127.11.0.1:37239
+12:43:16 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:43:16 [INFO] Reload complete
+12:43:19 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:43:19 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:43:19 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:43:19 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:43:19 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:43:19 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:43:19 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:43:19 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:43:19 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:45:06 [INFO] Enabled BungeeCord version unknown
+12:45:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:45:07 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+12:45:07 [INFO] Listening websockets on /127.0.0.1:1
+12:45:07 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:45:07 [INFO] Reload complete
+12:45:07 [INFO] Listening on /127.11.0.1:43759
+12:45:10 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+12:45:10 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+12:45:10 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+12:45:10 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+12:45:10 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+12:45:10 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+12:45:10 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+12:45:10 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+12:45:10 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+12:46:51 [INFO] [TARMaster] <-> InitialHandler has connected
+12:46:51 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+12:46:51 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+12:46:51 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+12:47:35 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+12:47:35 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+20:49:33 [INFO] Enabled BungeeCord version unknown
+20:49:34 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+20:49:34 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+20:49:34 [INFO] Listening websockets on /127.0.0.1:1
+20:49:34 [INFO] Server bans.txt changed, it will be reloaded automatically
+20:49:34 [INFO] Reload complete
+20:49:34 [INFO] Listening on /127.11.0.1:39655
+20:49:38 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+20:49:38 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+20:49:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+20:49:38 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+20:49:38 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+20:49:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+20:49:38 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+20:49:38 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+20:49:38 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+21:02:47 [INFO] Enabled BungeeCord version unknown
+21:02:47 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:02:47 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+21:02:47 [INFO] Listening websockets on /127.0.0.1:1
+21:02:48 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:02:48 [INFO] Reload complete
+21:02:48 [INFO] Listening on /127.11.0.1:35063
+21:02:50 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+21:02:50 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+21:02:50 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+21:02:50 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+21:02:50 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+21:02:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+21:02:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+21:02:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+21:02:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+21:06:14 [INFO] [TARMaster] <-> InitialHandler has connected
+21:06:14 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+21:06:14 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+21:06:14 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+21:06:35 [INFO] [TARMaster] disconnected with: [Proxy] Lost connection to server.
+21:06:35 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+21:06:35 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+07:15:57 [INFO] Enabled BungeeCord version unknown
+07:15:57 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:15:57 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:15:57 [INFO] Listening websockets on /127.0.0.1:1
+07:15:57 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:15:57 [INFO] Reload complete
+07:15:57 [INFO] Listening on /127.11.0.1:39763
+07:16:01 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:16:01 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:16:01 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:16:01 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:16:01 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:16:01 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:16:01 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:16:01 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:16:01 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+07:17:09 [INFO] [TARMaster] <-> InitialHandler has connected
+07:17:09 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+07:17:09 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+07:17:09 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+07:17:56 [INFO] [TARMaster] disconnected with: [Kicked] Nope!
+07:17:56 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+07:17:57 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+07:18:03 [INFO] [TARMaster] <-> InitialHandler has connected
+07:18:03 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+07:18:03 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+07:18:03 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+07:19:10 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+07:19:11 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+07:19:53 [INFO] [TARMaster] <-> InitialHandler has connected
+07:19:53 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+07:19:53 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+07:19:53 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+07:21:07 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+07:21:07 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+07:32:10 [INFO] Enabled BungeeCord version unknown
+07:32:11 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:32:11 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:32:11 [INFO] Listening websockets on /127.0.0.1:1
+07:32:11 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:32:11 [INFO] Listening on /127.11.0.1:34485
+07:32:11 [INFO] Reload complete
+07:32:15 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:32:15 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:32:15 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:32:15 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:32:15 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:32:15 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:32:15 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:32:15 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:32:15 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+07:38:15 [INFO] Enabled BungeeCord version unknown
+07:38:15 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:38:15 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:38:15 [INFO] Listening websockets on /127.0.0.1:1
+07:38:16 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:38:16 [INFO] Reload complete
+07:38:16 [INFO] Listening on /127.11.0.1:34301
+07:38:20 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:38:20 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:38:20 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:38:20 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:38:20 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:38:20 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:38:20 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:38:20 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:38:20 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+07:39:36 [INFO] [TARMaster] <-> InitialHandler has connected
+07:39:36 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+07:39:36 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+07:39:36 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+07:40:31 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+07:40:31 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+07:43:46 [INFO] Enabled BungeeCord version unknown
+07:43:46 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:43:46 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:43:47 [INFO] Listening websockets on /127.0.0.1:1
+07:43:47 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:43:47 [INFO] Listening on /127.11.0.1:40653
+07:43:47 [INFO] Reload complete
+07:43:50 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:43:50 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:43:50 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:43:50 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:43:50 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:43:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:43:50 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:43:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:43:50 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+07:48:19 [INFO] Enabled BungeeCord version unknown
+07:48:19 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:48:19 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:48:19 [INFO] Listening websockets on /127.0.0.1:1
+07:48:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:48:20 [INFO] Reload complete
+07:48:20 [INFO] Listening on /127.11.0.1:33669
+07:48:24 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:48:24 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:48:24 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:48:24 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:48:24 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:48:24 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:48:24 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:48:24 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:48:24 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+07:50:58 [INFO] Enabled BungeeCord version unknown
+07:50:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+07:50:59 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+07:50:59 [INFO] Listening websockets on /127.0.0.1:1
+07:50:59 [INFO] Server bans.txt changed, it will be reloaded automatically
+07:50:59 [INFO] Reload complete
+07:50:59 [INFO] Listening on /127.11.0.1:43801
+07:51:03 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+07:51:03 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+07:51:03 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+07:51:03 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+07:51:03 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+07:51:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+07:51:03 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+07:51:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+07:51:03 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+08:12:47 [INFO] Enabled BungeeCord version unknown
+08:12:48 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:12:48 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:12:48 [INFO] Listening websockets on /127.0.0.1:1
+08:12:48 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:12:48 [INFO] Reload complete
+08:12:48 [INFO] Listening on /127.11.0.1:46539
+08:12:51 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+08:12:51 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+08:12:51 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+08:12:51 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+08:12:51 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+08:12:51 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+08:12:51 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+08:12:51 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+08:12:51 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
+08:14:45 [INFO] [TARMaster] <-> InitialHandler has connected
+08:14:45 [INFO] Player 'TARMaster' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+08:14:45 [INFO] Player 'TARMaster' [/127.0.0.1] is using a client at: 8bf66b5c-3d89-4b10-8385-6855d6f0d746-00-aczlfutskstz.sisko.replit.dev:8080
+08:14:45 [INFO] [TARMaster] <-> ServerConnector [lobby] has connected
+08:15:00 [INFO] [TARMaster] -> UpstreamBridge has disconnected
+08:15:00 [INFO] [TARMaster] <-> DownstreamBridge <-> [lobby] has disconnected
+08:20:39 [INFO] Enabled BungeeCord version unknown
+08:20:40 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+08:20:40 [INFO] Enabled plugin EaglerVoice version 1.0.0 by ayunami2000
+08:20:40 [INFO] Listening websockets on /127.0.0.1:1
+08:20:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+08:20:40 [INFO] Reload complete
+08:20:40 [INFO] Listening on /127.11.0.1:39519
+08:20:44 [SEVERE] the blacklist subscription URL 'https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt' is invalid
+08:20:44 [SEVERE] java.io.FileNotFoundException: https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/origin_blacklist.txt
+
+08:20:44 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1996)
+
+08:20:44 [SEVERE] 	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1589)
+
+08:20:44 [SEVERE] 	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224)
+
+08:20:44 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.update(DomainBlacklist.java:153)
+
+08:20:44 [SEVERE] 	at net.md_5.bungee.eaglercraft.DomainBlacklist.init(DomainBlacklist.java:121)
+
+08:20:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:268)
+
+08:20:44 [SEVERE] 	at net.md_5.bungee.BungeeCord.main(BungeeCord.java:229)
+
