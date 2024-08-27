@@ -1,5 +1,5 @@
 #!/bin/bash
-echo smashed together by moreplit1 AKA SchoolTARMaster, server files by ayunami2000 or lax1dude or both.
+echo Smashed together by moreplit1 AKA SchoolTARMaster, server files by ayunami2000 or lax1dude or both.
 trap 'echo Stopping Apache 2 ... && httpd -k stop -f ~/$REPL_SLUG/apache.conf && echo Apache 2 stopped && Stopping BungeeCord and Bukkit ... && pkill java && echo BungeeCord and Bukkit stopped' SIGTERM
 echo Starting Apache 2 ...
 httpd -k start -f ~/$REPL_SLUG/apache.conf
