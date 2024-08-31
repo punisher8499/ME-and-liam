@@ -64,7 +64,7 @@ listeners:
   tab_size: 60
   default_server: lobby
   force_default_server: true
-  forward_ip: false
+  forward_ip: true
   server_icon: server-icon.png
   motd1: '&6Eaglercraft 1.5.2 Server'
   motd2: '&6Server made by moreplit1'
